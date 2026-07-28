@@ -170,47 +170,7 @@ This page supports HR teams in moving from **high-level analysis to employee-lev
 
 ---
 
-# 📁 Repository Structure
-
-```text
-HR-Analytics-Dashboard
-│
-├── 📊 HR Dashboard.pbix
-├── 📝 README.md
-│
-└── 📸 Screenshots
-    ├── HR_Dashboard_Overview.png
-    ├── HR_Dashboard_Details.png
-    └── HR_Dashboard_Action.png
-
----
-
-###📸 Dashboard Preview
-🏠 HR Dashboard – Overview
-
-🔍 HR Details – Workforce Analysis
-
-⚡ HR Action – Employee-Level Analysis
-
----
-
-###🚀 Project Outcome
-
-The HR Analytics Dashboard transforms employee data into meaningful and actionable insights through interactive visualizations and KPI-driven reporting.
-
-The solution enables HR stakeholders to:
-
-👥 Monitor workforce composition
-🚀 Identify employees due for promotion
-⚠️ Analyze retrenchment requirements
-⭐ Evaluate employee satisfaction and ratings
-⏱️ Understand overtime patterns
-🏢 Analyze workforce trends across departments and job roles
-📊 Support data-driven HR decision-making
-
----
-
-###👨‍💻 Author
+👨‍💻 Author
 Hari Prasath H
 🎯 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
