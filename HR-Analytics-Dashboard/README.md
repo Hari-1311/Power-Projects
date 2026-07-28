@@ -182,15 +182,19 @@ HR-Analytics-Dashboard
     ├── HR_Dashboard_Overview.png
     ├── HR_Dashboard_Details.png
     └── HR_Dashboard_Action.png
+
 ---
-📸 Dashboard Preview
+
+###📸 Dashboard Preview
 🏠 HR Dashboard – Overview
 
 🔍 HR Details – Workforce Analysis
 
 ⚡ HR Action – Employee-Level Analysis
+
 ---
-🚀 Project Outcome
+
+###🚀 Project Outcome
 
 The HR Analytics Dashboard transforms employee data into meaningful and actionable insights through interactive visualizations and KPI-driven reporting.
 
@@ -203,8 +207,10 @@ The solution enables HR stakeholders to:
 ⏱️ Understand overtime patterns
 🏢 Analyze workforce trends across departments and job roles
 📊 Support data-driven HR decision-making
+
 ---
-👨‍💻 Author
+
+###👨‍💻 Author
 Hari Prasath H
 🎯 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
