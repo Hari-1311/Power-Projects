@@ -1,4 +1,4 @@
-# 🏥 Hospital Management Analytics Dashboard | Power BI
+# 🏥 Hospital Management & Patient Analytics Dashboard | Power BI
 
 An interactive **Hospital Management Analytics Dashboard** built using **Power BI** to monitor hospital operations, patient appointments, doctor performance, treatment analysis, and financial insights. This project demonstrates data modeling, DAX, data visualization, and business intelligence techniques to support data-driven decision-making.
 
