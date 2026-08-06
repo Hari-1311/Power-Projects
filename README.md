@@ -26,6 +26,12 @@ Power BI | Power Query | DAX | HR Analytics | Data Modeling | Interactive Dashbo
 👉 Explore: HR-Analytics-Dashboard
 
 ---
+### 📊 Hospital Analytics Dashboard
+Power BI | Power Query | DAX | Data Modeling | Data Visualization | Row Level Security
+
+👉 Explore: Hospital Analytics Dashboard
+
+---
 
 ## 🛠️ Skills
 
